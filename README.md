@@ -37,10 +37,6 @@ Apex Gym is crafted to showcase strength, energy, and professionalism through mo
 
 ---
 
-## 📸 Preview
-
-> Add screenshots of the homepage and key sections.
-
 Example:
 
 ```
@@ -55,7 +51,7 @@ preview/
 
 ## 🌐 Live Demo
 
-🔗 https://your-gym-demo.vercel.app
+🔗 https://apex-gym-showcase.vercel.app/
 
 ---
 
